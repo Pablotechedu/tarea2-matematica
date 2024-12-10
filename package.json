@@ -1,0 +1,12 @@
+{
+  "name": "banco-app",
+  "version": "1.0.0",
+  "description": "Aplicación de banco con NodeJS y MySQL",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.11.5"
+  }
+}
